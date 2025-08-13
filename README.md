@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 - 🔭 Working on **AI & Web Projects** like Diabetic Retinopathy Detection & Emergency SOS  
-- 🌱 Currently mastering **Java, DSA, Data Science, SQL**  
-- 💬 Ask me about **Frontend Development, SQL, AI Basics, Data Science**  
+- 🌱 Currently mastering **Python, DSA, Data Science, SQL**  
+- 💬 Ask me about **Frontend Development, SQL, AI Basics, Data Analyst**  
 - 📫 Reach me at **aaryankrsaini24@gmail.com**  
-- ⚡ Fun fact: *I’m not competitive… unless there’s code involved* 😎  
+- ⚡ Fun fact: *I’m not competitive… unless there’s code involved*   
 
 ---
 
