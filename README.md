@@ -63,11 +63,7 @@
 ---
 
 ## 📈 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aaryan-Saini/Aaryan-Saini/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-- 📊 **[SQL Data Analysis Projects](#)** – Interactive data reports & dashboards.
+[![Open 3D Contribution Graph](assets/3d-graph-preview.png)](https://skyline.github.com/Aaryan-Saini)
 
 ---
 
