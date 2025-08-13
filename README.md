@@ -24,7 +24,6 @@
 
 ## 🧠 About Me
 
-```python
 class Developer:
     def __init__(self):
         self.name = "Aaryan Saini"
@@ -40,7 +39,6 @@ class Developer:
         
     def get_contact(self):
         return "aaryankrsaini24@gmail.com"
-```
 
 ---
 
