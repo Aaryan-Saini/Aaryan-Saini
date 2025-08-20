@@ -4,21 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:667eea&height=200&section=header&animation=twinkling" width="100%">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=65&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=AARYAN+SAINI;A∆RY∆N+S∆INI;⧨+AARYAN+SAINI+⧨" alt="Epic Name">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F093FB&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI+Engineer;Tech+Innovator" alt="Titles">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:667eea&height=100&section=footer&animation=twinkling" width="100%">
-</div>
+
 <!-- Holographic Title Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=F093FB&center=true&vCenter=true&width=900&height=60&lines=◈+FULL+STACK+ARCHITECT+◈;◈+AI+INNOVATION+ENGINEER+◈;◈+DIGITAL+TRANSFORMATION+CATALYST+◈;◈+NEXT-GEN+TECH+VISIONARY+◈" alt="Epic Title">
-
-<!-- Matrix-style Subtitle -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=800&color=667EEA&center=true&vCenter=true&width=1000&height=50&lines=▸+Building+Tomorrow's+Digital+Ecosystem+Today+◂;▸+Where+Artificial+Intelligence+Meets+Human+Creativity+◂;▸+Crafting+Intelligent+Solutions+from+Jaipur%2C+India+🇮🇳+◂;▸+Transforming+Complex+Problems+into+Elegant+Code+◂" alt="Epic Subtitle">
-
+<div align="center">
+  <h2 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 24px; font-weight: 600; margin: 30px 0; text-align: center;">
+    ◈ DATA ANALYST / DATA ENGINEER ◈
+  </h2>
+</div>
 </div>
 
 <!-- Futuristic Status Dashboard -->
-<br><br><br>
+<br>
 <table align="center" style="border: none;">
 <tr>
 <td align="center">
@@ -37,82 +33,98 @@
 </tr>
 </table>
 
-<!-- Particle Effect Divider -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="opacity: 0.1; position: absolute; z-index: -1;">
-
+<!-- Structured Line Divider -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=10&duration=2000&pause=0&color=667eea&center=true&width=900&height=15&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰">
 </div>
 
----
+<div align="center">
+<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
+🌟 About Me
+</h1>
+</div>
 
-## 🌟 About Me
+<table>
+<tr>
+<td width="35%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 15px;">
+</td>
+<td width="65%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=400&color=667eea&multiline=true&width=500&height=200&lines=3%2B+Years+of+Code+%F0%9F%9A%80;Backend+%26+Data+Engineering+%F0%9F%8E%AF;System+Architecture+%F0%9F%8F%97%EF%B8%8F;Problem+Solving+%F0%9F%A7%A9;Always+Innovating+%E2%9C%A8" alt="Journey Stats">
+
+**I've been coding for over 3 years**, exploring different technologies and working on various projects. After trying my hands on multiple domains, I discovered that **Backend Development and Data Engineering** are truly my jam — I love designing systems, working with data, and solving problems that run behind the scenes.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=10&duration=2000&pause=0&color=764ba2&center=true&width=900&height=15&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰">
+</div>
+
+<div align="center">
+<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
+🛠️ Tech Stack & Expertise
+</h1>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=764ba2&center=true&vCenter=true&width=850&lines=Passionate+Developer+%7C+AI+Enthusiast+%7C+Problem+Solver;Transforming+Complex+Ideas+into+Elegant+Solutions;Building+Scalable+Systems+with+Modern+Technologies;Always+Learning%2C+Always+Growing%2C+Always+Coding+%F0%9F%9A%80" alt="About Me Description">
+<table>
+<tr>
+<td align="center" width="20%" style="border: none;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+<br><br><strong style="color: white; font-size: 16px;">Python 🐍</strong>
+<br><sub style="color: #e6e6e6;">Data Analyst internship + projects</sub>
+</div>
+</td>
+<td align="center" width="20%" style="border: none;">
+<div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
+<br><br><strong style="color: white; font-size: 16px;">SQL 🛢</strong>
+<br><sub style="color: #e6e6e6;">Querying, managing, manipulating databases</sub>
+</div>
+</td>
+<td align="center" width="20%" style="border: none;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #667eea 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="60"/>
+<br><br><strong style="color: white; font-size: 16px;">Power BI 📊</strong>
+<br><sub style="color: #e6e6e6;">Dashboards & data visualization</sub>
+</div>
+</td>
+<td align="center" width="20%" style="border: none;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="ETL & SSIS" width="60" height="60"/>
+<br><br><strong style="color: white; font-size: 16px;">ETL & SSIS 🔄</strong>
+<br><sub style="color: #e6e6e6;">Workflow automation & data pipelines</sub>
+</div>
+</td>
+<td align="center" width="20%" style="border: none;">
+<div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ML & AI" width="60" height="60"/>
+<br><br><strong style="color: white; font-size: 16px;">ML & AI 🤖</strong>
+<br><sub style="color: #e6e6e6;">Applying data for insights & decision-making</sub>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
-
-I’ve been coding for over 3 years, exploring different technologies and working on various projects. After trying my hands on multiple domains, I discovered that Backend Development and Data Engineering are truly my jam — I love designing systems, working with data, and solving problems that run behind the scenes.
-
-Along the way, I’ve built skills in:
-
-Python 🐍 (Data Analyst internship + projects)
-
-SQL 🛢 (querying, managing, and manipulating databases)
-
-Power BI 📊 (dashboards & data visualization)
-
-ETL & SSIS 🔄 (workflow automation & data pipelines)
-
-Machine Learning & AI 🤖 (applying data for insights & decision-making)
-
-I enjoy working on projects that combine logic, scalability, and creativity, and I’m always learning new tools to level up my craft.
-
----
-
-## 💻 Technology Arsenal
 
 <div align="center">
-
-### Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-764ba2?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-f093fb?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-667eea?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/R-764ba2?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-f093fb?style=for-the-badge&logo=php&logoColor=white">
-</p>
-
-### Frontend Excellence
-<p>
-  <img src="https://img.shields.io/badge/React-764ba2?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-667eea?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-f093fb?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-764ba2?style=for-the-badge&logo=figma&logoColor=white">
-</p>
-
-### Backend & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MySQL-667eea?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-f093fb?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-764ba2?style=for-the-badge&logo=googlecloud&logoColor=white">
-</p>
-
-### AI/ML Expertise
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-667eea?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-f093fb?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-764ba2?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-667eea?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-f093fb?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</p>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=f093fb&center=true&vCenter=true&width=600&lines=Logic+%2B+Scalability+%2B+Creativity;Always+Learning+New+Tools;Leveling+Up+My+Craft+%E2%9C%A8" alt="Philosophy">
 </div>
 
----
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=1&duration=1&pause=99999&color=f093fb&center=true&width=800&height=20&lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬">
+</div>
 
-## 🚀 Showcase Projects
+<div align="center">
+<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
+🚀 Showcase Projects
+</h1>
+</div>
 
 <div align="center">
 
@@ -167,9 +179,15 @@ I enjoy working on projects that combine logic, scalability, and creativity, and
 
 </div>
 
----
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=1&duration=1&pause=99999&color=667eea&center=true&width=800&height=20&lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬">
+</div>
 
-## 📊 Development Insights
+<div align="center">
+<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
+📊 Development Insights
+</h1>
+</div>
 
 <div align="center">
 
@@ -188,17 +206,23 @@ I enjoy working on projects that combine logic, scalability, and creativity, and
 </tr>
 </table>
 
-## 🏆 Recognition & Achievements
+🔥 Contribution Heatmap
+<img src="https://ghchart.rshah.org/764ba2/aaryan-saini" width="100%">
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aaryan-saini&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6&no-bg=true" width="100%">
+🚀 Development Timeline
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryan-saini&theme=monokai&hide_border=true" width="100%">
 
 </div>
 
----
+<div align="center">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #667eea 0%, #764ba2 50%, #f093fb 100%); margin: 40px 0; border-radius: 2px;">
+</div>
 
-## 🎵 Development Soundtrack
+<div align="center">
+<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
+🎵 Development Soundtrack
+</h1>
+</div>
 
 <div align="center">
 
@@ -210,15 +234,17 @@ I enjoy working on projects that combine logic, scalability, and creativity, and
 
 </div>
 
----
-
-## 🌐 Connect & Collaborate Hub
+<div align="center">
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #667eea 0%, #764ba2 50%, #f093fb 100%); margin: 40px 0; border-radius: 2px;">
+</div>
 
 <div align="center">
+<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
+🌐 Connect & Collaborate Hub
+</h1>
+</div>
 
-<!-- Epic Connection Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=F093FB&center=true&vCenter=true&width=800&lines=◣+NETWORK+ACTIVATION+PROTOCOL+◥;◣+ESTABLISHING+CONNECTION+◥;◣+COLLABORATION+MODE+ENABLED+◥" alt="Connection Header">
-
+<div align="center">
 <!-- Futuristic Social Links Grid -->
 <table align="center" cellpadding="10" style="border: none; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); border-radius: 15px; padding: 20px;">
 <tr>
@@ -247,87 +273,11 @@ I enjoy working on projects that combine logic, scalability, and creativity, and
 </tr>
 </table>
 
-<!-- Holographic Opportunity Matrix -->
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=800&color=764BA2&center=true&vCenter=true&width=700&lines=◢+OPPORTUNITY+MATRIX+◣;◢+COLLABORATION+ZONES+◣" alt="Opportunity Header">
-
-<!-- 3D-style Opportunity Cards -->
-<table align="center" style="border: none; margin-top: 20px;">
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 15px; padding: 25px; margin: 10px; box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3); min-width: 300px;">
-<div style="color: white;">
-<h3 style="color: #f093fb; margin: 0; font-size: 24px;">💼 FULL-TIME MISSIONS</h3>
-<br>
-<strong style="font-size: 18px;">◦ Frontend Architecture</strong><br>
-<strong style="font-size: 18px;">◦ AI/ML Engineering</strong><br>
-<strong style="font-size: 18px;">◦ System Design</strong>
-<br><br>
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY_SEEKING-00ff00?style=for-the-badge&labelColor=000000">
 </div>
-</td>
-<td align="center" style="background: linear-gradient(135deg, #764ba2, #f093fb); border-radius: 15px; padding: 25px; margin: 10px; box-shadow: 0 10px 20px rgba(240, 147, 251, 0.3); min-width: 300px;">
-<div style="color: white;">
-<h3 style="color: #667eea; margin: 0; font-size: 24px;">🤝 FREELANCE QUESTS</h3>
-<br>
-<strong style="font-size: 18px;">◦ Web Applications</strong><br>
-<strong style="font-size: 18px;">◦ AI Solutions</strong><br>
-<strong style="font-size: 18px;">◦ Consulting</strong>
-<br><br>
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_NOW-00ff00?style=for-the-badge&labelColor=000000">
-</div>
-</td>
-</tr>
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #f093fb, #667eea); border-radius: 15px; padding: 25px; margin: 10px; box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3); min-width: 300px;">
-<div style="color: white;">
-<h3 style="color: #764ba2; margin: 0; font-size: 24px;">🎓 KNOWLEDGE TRANSFER</h3>
-<br>
-<strong style="font-size: 18px;">◦ Technical Mentoring</strong><br>
-<strong style="font-size: 18px;">◦ Code Reviews</strong><br>
-<strong style="font-size: 18px;">◦ Career Guidance</strong>
-<br><br>
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_OPEN-00ff00?style=for-the-badge&labelColor=000000">
-</div>
-</td>
-<td align="center" style="background: linear-gradient(135deg, #667eea, #f093fb); border-radius: 15px; padding: 25px; margin: 10px; box-shadow: 0 10px 20px rgba(118, 75, 162, 0.3); min-width: 300px;">
-<div style="color: white;">
-<h3 style="color: #764ba2; margin: 0; font-size: 24px;">🚀 OPEN SOURCE</h3>
-<br>
-<strong style="font-size: 18px;">◦ Project Collaboration</strong><br>
-<strong style="font-size: 18px;">◦ Community Building</strong><br>
-<strong style="font-size: 18px;">◦ Innovation Labs</strong>
-<br><br>
-<img src="https://img.shields.io/badge/STATUS-CONTRIBUTING-00ff00?style=for-the-badge&labelColor=000000">
-</div>
-</td>
-</tr>
-</table>
-
-<!-- Call to Action Banner -->
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3500&pause=1000&color=F093FB&center=true&vCenter=true&width=900&lines=⟨+Ready+to+Build+Something+Extraordinary+Together?+⟩;⟨+Let's+Transform+Ideas+into+Digital+Reality+⟩;⟨+Your+Next+Technical+Partner+Awaits+⟩" alt="CTA Banner">
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Epic Closing Sequence -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=900&lines=⟦+THANK+YOU+FOR+ACCESSING+MY+DIGITAL+REALM+⟧;⟦+READY+TO+ARCHITECT+THE+IMPOSSIBLE+TOGETHER+⟧;⟦+STAR+⭐+REPOSITORIES+THAT+IGNITE+YOUR+CURIOSITY+⟧;⟦+ALWAYS+EXCITED+FOR+DEEP+TECH+CONVERSATIONS+⟧" alt="Epic Footer">
-
-<!-- Matrix-style Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,25:764ba2,50:f093fb,75:764ba2,100:667eea&height=5" width="80%">
-<br><br>
-
 <!-- Futuristic Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:667eea&height=150&section=footer&animation=twinkling" width="100%">
 
-<!-- Elite Profile Counter -->
-<img src="https://komarev.com/ghpvc/?username=aaryan-saini&label=NEURAL+NETWORK+CONNECTIONS&color=667eea&style=for-the-badge&labelColor=0f0f23" alt="Elite Profile Views">
-
 <!-- Holographic Signature -->
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&duration=5000&pause=2000&color=F093FB&center=true&vCenter=true&width=600&lines=◣+DIGITALLY+CRAFTED+WITH+💜+BY+AARYAN+SAINI+◥;◣+WHERE+CODE+MEETS+CONSCIOUSNESS+◥" alt="Digital Signature">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&duration=5000&pause=2000&color=F093FB&center=true&vCenter=true&width=600&lines=◣+DIGITALLY+CRAFTED+WITH+💜+BY+AARYAN+SAINI+◥" alt="Digital Signature">
 
 </div>
