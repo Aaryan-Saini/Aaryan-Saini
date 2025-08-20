@@ -1,246 +1,196 @@
-# 🚀 Aaryan Saini | Full Stack Developer
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Aaryan+Saini;Data+Engineer+%26+Backend+Developer;Turning+Data+Into+Intelligence)</div>
 
 <div align="center">
-
-<!-- Elite Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:1E90FF,100:FFD700&height=280&section=header&text=Aaryan%20Saini&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlign=50&descAlignY=58&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:1E90FF,100:FFD700&height=280&section=header&text=Aaryan%20Saini&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlign=50&descAlignY=58&descSize=18" width="100%">
-</picture>
-
-<!-- Dynamic Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Technology;AI+%7C+Web+Development+%7C+Innovation;Code%2C+Coffee%2C+and+Creativity+%E2%98%95;From+Jaipur+with+%F0%9F%92%99" alt="Dynamic Intro">
-
-<!-- Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍_Location-Jaipur%2C_India-1E90FF?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-FF1493?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/🎯_Focus-AI_Innovation-FFD700?style=for-the-badge&labelColor=000000">
-</p>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Aaryan-Saini&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Aaryan-Saini?color=00d9ff&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Aaryan-Saini)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-saini)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **About The Developer Behind The Code**
 
-class Developer:
+```python
+class AaryanSaini:
     def __init__(self):
+        self.username = "Aaryan-Saini"
         self.name = "Aaryan Saini"
-        self.role = "Frontend Developer & Data Science Enthusiast"
-        self.location = "Jaipur, India"
-        self.current_projects = [
-            "Diabetic Retinopathy Detection",
-            "Emergency SOS System",
-            "Banking Website - Saatvik Fincorp"
-        ]
-        self.learning = ["Python", "DSA", "Data Science", "SQL"]
-        self.interests = ["AI", "Web Development", "Problem Solving"]
+        self.position = "Data Engineer & Backend Developer"
+        self.location = "Jaipur, India 🇮🇳"
+        self.experience_years = 3
+        self.passion = ["Backend Systems", "Data Engineering", "Problem Solving"]
         
-    def get_contact(self):
-        return "aaryankrsaini24@gmail.com"
+    def current_work(self):
+        return {
+            "company": "Saatvik Fincorp",
+            "role": "Building scalable financial data solutions",
+            "learning": ["Advanced Python", "Machine Learning", "MLOps"],
+            "collaboration": "Open for Diabetic Retinopathy Detection projects"
+        }
+    
+    def life_philosophy(self):
+        return "Code with purpose, build with passion, scale with intelligence"
+```
+
+## 🚀 **What Drives Me**
+
+> **"I don't just write code – I architect solutions that transform raw data into actionable intelligence."**
+
+After 3+ years of exploring different tech domains, I discovered my true calling lies in **Backend Development** and **Data Engineering**. I'm passionate about building systems that work behind the scenes, processing massive datasets, and creating pipelines that enable data-driven decisions.
+
+Currently working at **Saatvik Fincorp**, where I'm building robust financial data solutions that handle real-world complexity at scale.
 
 ---
 
-## 💻 Tech Stack
+## 💻 **Tech Arsenal**
 
 <div align="center">
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/R-FF1493?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-FFD700?style=for-the-badge&logo=php&logoColor=black">
-</p>
+### **Core Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frontend & Design
-<p>
-  <img src="https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+### **Data & Analytics Stack**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Google_Cloud-FF1493?style=for-the-badge&logo=googlecloud&logoColor=white">
-</p>
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### AI/ML & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-1E90FF?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-FF1493?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=black">
-  <img src="https://img.shields.io/badge/NumPy-1E90FF?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
+### **Tools & Platforms**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+## 🎯 **Current Mission**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏥 Diabetic Retinopathy Detection
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="AI Project"/>
-
-**AI-powered medical diagnosis system**
-- 🎯 **Impact**: Early detection for preventing blindness
-- 🔬 **Tech**: Python, TensorFlow, Keras, CNN
-- 📊 **Dataset**: 50,000+ retinal images
-- ⚡ **Accuracy**: 85% classification accuracy
-
-[![View Project](https://img.shields.io/badge/View_Project-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryan-saini)
+### 🔥 **Active Projects**
+- **🏢 Saatvik Fincorp**: Financial data infrastructure
+- **👁️ Diabetic Retinopathy Detection**: ML-powered healthcare solution
+- **🧠 ML Learning Journey**: Advancing AI/ML skills
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🆘 Emergency SOS System
-<img src="https://media.giphy.com/media/l4FGJp4lxGGgK5CBW/giphy.gif" width="100%" alt="SOS Project"/>
-
-**Real-time safety alert system**
-- 🎯 **Impact**: Location-based emergency response
-- 🔬 **Tech**: JavaScript, Firebase, Google Maps API
-- 📱 **Features**: GPS tracking, SMS alerts
-- ⚡ **Performance**: <30s response time
-
-[![View Project](https://img.shields.io/badge/View_Project-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryan-saini)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🏦 Saatvik Fincorp Banking Website
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60%" alt="Banking Project"/>
-
-**Modern banking platform with premium UX**
-- 🎯 **Impact**: Complete digital banking solution
-- 🔬 **Tech**: HTML5, CSS3, JavaScript, Responsive Design
-- 📱 **Features**: 12+ pages, Dark/Light mode, 60+ animations
-- ⚡ **Performance**: 95/100 Lighthouse score
-
-[![View Project](https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/aaryan-saini)
+### 🚀 **Looking For**
+- **🤝 Collaboration**: Diabetic Retinopathy projects
+- **💡 Open Source**: Data engineering contributions
+- **📊 Challenges**: Complex data problems to solve
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📊 **GitHub Performance Dashboard**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Saini&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&hide_border=false" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan-Saini&theme=tokyonight&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=00D9FF" alt="GitHub Streak" width="48%" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-Saini&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" alt="Top Languages" width="50%" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 **Featured Repository**
+
+<div align="center">
+<a href="https://github.com/Aaryan-Saini/Diabetic-Retinopathy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaryan-Saini&repo=Diabetic-Retinopathy&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF" />
+</a>
+</div>
+
+**🎯 Project Highlight**: AI-powered diabetic retinopathy detection system using machine learning to assist healthcare professionals in early diagnosis. This project combines my passion for data science with real-world healthcare impact.
+
+---
+
+## 🌟 **Professional Journey**
+
+```mermaid
+graph LR
+    A[🎯 Started Coding] --> B[🐍 Python Mastery]
+    B --> C[🛢️ Database Expertise]
+    C --> D[📊 Data Visualization]
+    D --> E[🔄 ETL Pipelines]
+    E --> F[🤖 Machine Learning]
+    F --> G[🏢 Saatvik Fincorp]
+    G --> H[🚀 Current: Advanced ML]
+```
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryan-Saini&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
 
-### Performance Overview
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryan-saini&custom_title=Contribution%20Activity&bg_color=0d1117&color=1E90FF&line=FF1493&point=FFD700&area=true&hide_border=true" width="100%">
+### **Ready to build something amazing together?**
 
-### Statistics Dashboard
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=aaryan-saini&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF1493&icon_color=1E90FF&text_color=ffffff&ring_color=FFD700" width="100%">
+<td align="center">
+<img src="https://github.com/Aaryan-Saini.png" width="100px;" alt="Aaryan Saini"/><br />
+<strong>Aaryan Saini</strong><br/>
+<sub>Data Engineer & Backend Developer</sub>
 </td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan-saini&theme=dark&hide_border=true&background=0d1117&stroke=1E90FF&ring=FF1493&fire=FFD700&currStreakLabel=1E90FF" width="100%">
+<td align="center">
+
+**📧 Email**: [aaryankrsaini24@gmail.com](mailto:aaryankrsaini24@gmail.com)<br/>
+**💼 LinkedIn**: [Connect with me](https://www.linkedin.com/in/aaryan-saini)<br/>
+**🌐 Location**: Jaipur, India<br/>
+**🚀 Company**: Saatvik Fincorp<br/>
+
 </td>
 </tr>
 </table>
 
-### Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-saini&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF1493&text_color=ffffff" width="100%">
-
-</div>
+### **🎯 Open for opportunities in:**
+`Backend Development` • `Data Engineering` • `Machine Learning` • `ETL Pipelines` • `System Architecture`
 
 ---
 
-## 🏆 Achievements
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aaryan-saini&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
 </div>
-
----
-
-## 🎵 Currently Listening
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🎧+Coding+Soundtrack+Active+🎧;Lo-Fi+%7C+Electronic+%7C+Synthwave" alt="Music Status">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=△ry)](https://open.spotify.com/user/△ry)
-
-*Music fuels creativity and code flows better with rhythm* 🎶
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryan-saini/aaryan-saini/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryan-saini/aaryan-saini/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/aaryan-saini/aaryan-saini/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📞 Let's Connect
-
-<div align="center">
-
-<p>
-  <a href="mailto:aaryankrsaini24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/aaryan-saini">
-    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/aaryan-saini">
-    <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://kaggle.com/aaryansaini">
-    <img src="https://img.shields.io/badge/Kaggle-1E90FF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-</p>
-
-### 🌟 Open to Opportunities
-- 💼 **Full-time positions** in Frontend Development or Data Science
-- 🤝 **Freelance projects** and collaborations
-- 🎓 **Mentoring** and knowledge sharing
-- 🚀 **Open source** contributions
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+🚀;⭐+Star+my+repos+if+you+find+them+interesting!;💬+Always+open+for+tech+discussions+and+collaborations" alt="Footer Message">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:FF1493,100:FFD700&height=120&section=footer" width="100%">
-
----
-
-<img src="https://komarev.com/ghpvc/?username=aaryan-saini&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile views">
-
+<sub>⚡ Powered by passion for data and built with ❤️ in Jaipur</sub><br/>
+<sub>🔄 Last updated: Dynamically awesome since 2021</sub>
 </div>
