@@ -12,6 +12,10 @@
   </h2>
 </div>
 </div>
+<!-- Particle Effect Divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(220deg) saturate(1.5) brightness(0.8); opacity: 0.3; position: absolute; z-index: -1;">
+</div>
+
 
 <!-- Futuristic Status Dashboard -->
 <br>
