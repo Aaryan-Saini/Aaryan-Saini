@@ -1,25 +1,17 @@
 <div align="center">
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:667eea&height=200&section=header&animation=twinkling" width="100%">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=65&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=AARYAN+SAINI;A∆RY∆N+S∆INI;⧨+AARYAN+SAINI+⧨" alt="Epic Name">
 
-<!-- Holographic Title Animation -->
-<div align="center">
   <h2 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 24px; font-weight: 600; margin: 30px 0; text-align: center;">
     ◈ DATA ANALYST / DATA ENGINEER ◈
   </h2>
 </div>
-</div>
-<!-- Particle Effect Divider -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(220deg) saturate(1.5) brightness(0.8); opacity: 0.3; position: absolute; z-index: -1;">
-</div>
 
+## 📍 Quick Stats
 
-<!-- Futuristic Status Dashboard -->
-<br>
-<table align="center" style="border: none;">
+<div align="center">
+<table>
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/⚡_LOCATION-Jaipur%2C_Rajasthan%2C_India-667eea?style=for-the-badge&labelColor=0f0f23&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==">
@@ -36,17 +28,11 @@
 </td>
 </tr>
 </table>
-
-<!-- Structured Line Divider -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=10&duration=2000&pause=0&color=667eea&center=true&width=900&height=15&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰">
 </div>
 
-<div align="center">
-<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
-🌟 About Me
-</h1>
-</div>
+---
+
+## 🌟 About Me
 
 <table>
 <tr>
@@ -62,18 +48,11 @@
 </tr>
 </table>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=10&duration=2000&pause=0&color=764ba2&center=true&width=900&height=15&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰">
-</div>
+---
+
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
-<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
-🛠️ Tech Stack & Expertise
-</h1>
-</div>
-
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="20%" style="border: none;">
@@ -114,24 +93,16 @@
 </tr>
 </table>
 
-</div>
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=f093fb&center=true&vCenter=true&width=600&lines=Logic+%2B+Scalability+%2B+Creativity;Always+Learning+New+Tools;Leveling+Up+My+Craft+%E2%9C%A8" alt="Philosophy">
 </div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=1&duration=1&pause=99999&color=f093fb&center=true&width=800&height=20&lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬">
 </div>
 
-<div align="center">
-<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
-🚀 Showcase Projects
-</h1>
-</div>
+---
+
+## 🚀 Showcase Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -180,18 +151,11 @@
 </td>
 </tr>
 </table>
-
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=1&duration=1&pause=99999&color=667eea&center=true&width=800&height=20&lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬">
-</div>
+---
 
-<div align="center">
-<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
-📊 Development Insights
-</h1>
-</div>
+## 📊 Development Insights
 
 <div align="center">
 
@@ -209,47 +173,23 @@
 </td>
 </tr>
 </table>
-
-🔥 Contribution Heatmap
-<img src="https://ghchart.rshah.org/764ba2/aaryan-saini" width="100%">
-
-🚀 Development Timeline
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryan-saini&theme=monokai&hide_border=true" width="100%">
-
 </div>
 
-<div align="center">
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #667eea 0%, #764ba2 50%, #f093fb 100%); margin: 40px 0; border-radius: 2px;">
-</div>
+## 🎵 Development Soundtrack
 
 <div align="center">
-<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
-🎵 Development Soundtrack
-</h1>
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=764ba2&center=true&vCenter=true&width=500&lines=🎧+Currently+Listening+🎧;Lo-Fi+%7C+Synthwave+%7C+Ambient+Coding+Music;Music+%2B+Code+%3D+Flow+State+%E2%9C%A8" alt="Music Status">
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/△ry)
 
 *"Code flows better with the right rhythm"* 🎶
-
 </div>
 
-<div align="center">
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #667eea 0%, #764ba2 50%, #f093fb 100%); margin: 40px 0; border-radius: 2px;">
-</div>
+---
+
+## 🌐 Connect & Collaborate Hub
 
 <div align="center">
-<h1 style="color: #F093FB; font-family: 'Orbitron', monospace; font-size: 32px; font-weight: 700; text-align: center; margin: 30px 0;">
-🌐 Connect & Collaborate Hub
-</h1>
-</div>
-
-<div align="center">
-<!-- Futuristic Social Links Grid -->
 <table align="center" cellpadding="10" style="border: none; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); border-radius: 15px; padding: 20px;">
 <tr>
 <td align="center" style="padding: 15px;">
@@ -276,12 +216,12 @@
 </td>
 </tr>
 </table>
-
 </div>
-<!-- Futuristic Footer Wave -->
+
+---
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,70:f093fb,100:667eea&height=150&section=footer&animation=twinkling" width="100%">
 
-<!-- Holographic Signature -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=14&duration=5000&pause=2000&color=F093FB&center=true&vCenter=true&width=600&lines=◣+DIGITALLY+CRAFTED+WITH+💜+BY+AARYAN+SAINI+◥" alt="Digital Signature">
-
 </div>
